@@ -1,84 +1,33 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
+# 안녕하세요! 👋, Mellona의 우당탕탕  Log 입니다.
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+> [🔑 blog Link](https://mellonalog.com/)
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+## 📌 Mellona의 우당탕탕  Log란?
 
-  [![CI](https://img.shields.io/github/actions/workflow/status/cotes2020/jekyll-theme-chirpy/ci.yml?logo=github)][ci]&nbsp;
-  [![Codacy Badge](https://img.shields.io/codacy/grade/4e556876a3c54d5e8f2d2857c4f43894?logo=codacy)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy?color=goldenrod)][license]&nbsp;
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?&logo=RubyGems&logoColor=ghostwhite&label=gem&color=orange)][gem]&nbsp;
-  [![Open in Dev Containers](https://img.shields.io/badge/Dev_Containers-Open-deepskyblue?logo=linuxcontainers)][open-container]
+- velog, notion 등에서 적어둔 저의 개발적인 지식, 그 외의 것들 모두 모아 한 공간에 기록해두는 공간입니다. 🐾
+- 혼자 나아가는 것이 아닌 같이 나아가기 위해 기록하고 공유하는 것이 목표입니다. 🍀
+- jekyll theme을 이용하여 구매한 도메인을 적용 시켜두었습니다.
 
-  [**Live Demo** →][demo]
+## 😀 블로그의 주인장  Mellona에  대해 말하자면,
+<p align ="center"> <img src="https://github.com/user-attachments/assets/79379010-591b-4608-8fa7-ec1fec6d8840" alt="KakaoTalk_20240531_095426888_02" width="300"> </p>
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+> 🌱 1년차  주니어 개발자입니다.
 
-</div>
+- 🖋 지금 현재 관심이 있고 공부하는 분야는 **OOP, JPA** 에요.
 
-## Features
+- ☕ 부족한 도메인 지식은 `커피챗`을 통해 다양하게 채워 나가는 중입니다!
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+- 💬 제가 현재 주력으로 사용하고 있는 기술은 **spring, mariadb, java, javascript, mybatis** 입니다.
 
-## Documentation
+- 📝 저는 기록하고 남들과 정보를 나누는 것을 좋아하기에 <a href="https://velog.io/@prettylee620"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&https://velog.io/@prettylee620" /></a> 와  <a href="https://mellona.oopy.io/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>에 기록합니다.
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+- 📌 최근에 기록하여 많은 공감을 얻었던 글은 면접에 관련된 글이며, 그 외의 다수의 글로 공감과 댓글을 받았으며, 2024년 velog 팔로워 100명 이상을 달성하였습니다.
 
-## Contributing
+## ☎ CONTACT
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
+- Email : prettylee620@gmail.com
+- github : https://github.com/GoldenPearls
+- LinkedIn : https://www.linkedin.com/in/mellona/
+- Velog : https://velog.io/@prettylee620/posts
+- Rallit : https://www.rallit.com/resumes/6107@prettylee620/%EC%9D%B4%EA%B8%88%EC%A3%BC(%EC%88%98%EC%A0%95%20%EC%A4%91)
 
-## Credits
-
-### Contributors
-
-Thanks to [all the contributors][contributors] involved in the development of the project!
-
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
-
-### Third-Party Assets
-
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
-
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
-
-## License
-
-This project is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[open-container]: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/cotes2020/jekyll-theme-chirpy
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
